@@ -1,4 +1,4 @@
-# Netflix Clone
+# Netflix Clone(https://hiteshyasam.github.io/NetflixClone/)
 
 ## Skills Used
 <li>HTML</li>
